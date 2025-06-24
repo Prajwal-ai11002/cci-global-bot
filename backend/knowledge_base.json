@@ -1,0 +1,342 @@
+{
+  "company": {
+    "name": "CCI Global",
+    "founded": "2006",
+    "headquarters": "UAE",
+    "employees": "15,000+",
+    "description": "One of the top providers of customer management services in Africa, supporting domestic and international clients from the United Kingdom, United States, Australia, New Zealand, South Africa, Kenya, and others.",
+    "specialties": [
+      "Customer Management",
+      "Omnichannel Support",
+      "Administration & Processing",
+      "Technical Expertise",
+      "Impact Sourcing"
+    ]
+  },
+  "services": {
+    "customer_management": {
+      "name": "Customer Management",
+      "description": "Acquisition, retention, loyalty, and management of customer base to increase sales with a focus on customer experience.",
+      "features": [
+        "Customer acquisition and engagement",
+        "Loyalty program management",
+        "Digital demand generation",
+        "Digital marketing & inbound sales",
+        "Renewals and cancellations"
+      ]
+    },
+    "omnichannel_management": {
+      "name": "Omnichannel Management",
+      "description": "Support across voice and digital channels with international expertise to elevate brand services.",
+      "features": [
+        "Voice support",
+        "Digital channels",
+        "Agent training",
+        "System integration",
+        "Process implementation"
+      ]
+    },
+    "administration_processing": {
+      "name": "Administration & Processing",
+      "description": "Operations and effectiveness across translation, digitization, claims, and complex case management.",
+      "features": [
+        "Translation and localization",
+        "Claims management",
+        "Data entry",
+        "Document processing",
+        "Back-office support"
+      ]
+    },
+    "technical_expertise": {
+      "name": "Technical Expertise",
+      "description": "Detail-oriented services with a highly educated workforce to manage complicated operational queries.",
+      "features": [
+        "Technical support",
+        "Warranty claims management",
+        "Product support",
+        "Cross-industry learning",
+        "Portfolio solutions"
+      ]
+    },
+    "digital_support": {
+      "name": "Digital Support",
+      "description": "Digital-first engagement solutions including chat, email, and social media community management.",
+      "features": [
+        "Chat & email support",
+        "Social media community management",
+        "Content moderation, labelling & curation",
+        "Self-service portals",
+        "Omnichannel consulting"
+      ]
+    },
+    "compliance_as_a_service": {
+      "name": "Compliance as a Service",
+      "description": "Trained professionals to integrate into your operating model, ensuring compliance with regulatory frameworks.",
+      "features": [
+        "Regulatory monitoring",
+        "Compliance reporting",
+        "Quality assurance",
+        "Data validation"
+      ]
+    }
+  },
+  "careers": {
+    "overview": {
+      "total_employees": "15,000+",
+      "growth_opportunities": "Extensive career advancement paths across multiple countries",
+      "training_programs": "Comprehensive onboarding and continuous professional development",
+      "diversity": "97.3% African employees with 67.1% female placements"
+    },
+    "available_positions": {
+      "customer_service_representative": {
+        "title": "Customer Service Representative",
+        "department": "Customer Operations",
+        "location": "Tatu City, Kenya / Cape Town, South Africa",
+        "employment_type": "Full-time",
+        "experience_level": "Entry to Mid-level",
+        "description": "Join our dynamic customer service team providing omnichannel support across voice and digital platforms for international clients from UK, US, Australia, and New Zealand.",
+        "key_responsibilities": [
+          "Handle customer inquiries via phone, chat, and email",
+          "Provide excellent customer service and support",
+          "Resolve customer issues efficiently and professionally",
+          "Maintain accurate customer records and documentation",
+          "Meet performance targets and quality standards"
+        ],
+        "requirements": [
+          "High school diploma or equivalent qualification",
+          "Excellent verbal and written communication skills in English",
+          "Previous customer service experience preferred but not required",
+          "Strong computer literacy and typing skills (minimum 35 WPM)",
+          "Ability to work flexible shifts including evenings and weekends",
+          "Problem-solving skills and patience with customers"
+        ],
+        "preferred_qualifications": [
+          "Multilingual abilities (especially French, Arabic, or local languages)",
+          "Experience with CRM systems",
+          "Previous BPO or call center experience"
+        ],
+        "benefits": [
+          "Competitive salary package with performance bonuses",
+          "Comprehensive health insurance coverage",
+          "Paid training program (4-6 weeks)",
+          "Career advancement opportunities within CCI Global",
+          "Impact sourcing opportunities through CareerBox",
+          "Transport allowance and meal subsidies",
+          "Annual leave and public holidays"
+        ],
+        "salary_range": "Competitive market rates based on experience and location"
+      },
+      "technical_support_specialist": {
+        "title": "Technical Support Specialist",
+        "department": "Technical Operations",
+        "location": "Multiple locations: Kenya, South Africa, Ghana, Egypt",
+        "employment_type": "Full-time",
+        "experience_level": "Mid to Senior level",
+        "description": "Provide advanced technical expertise and support for complex operational queries across telecommunications, e-commerce, and technology sectors for our international client base.",
+        "key_responsibilities": [
+          "Diagnose and resolve complex technical issues",
+          "Provide Level 2/3 technical support to customers",
+          "Document technical solutions and create knowledge base articles",
+          "Collaborate with engineering teams on product improvements",
+          "Train junior staff on technical procedures",
+          "Handle warranty claims and product support queries"
+        ],
+        "requirements": [
+          "Bachelor's degree in IT, Engineering, Computer Science, or equivalent experience",
+          "3+ years of technical support or IT experience",
+          "Strong troubleshooting and problem-solving skills",
+          "Experience with software applications, operating systems, and hardware",
+          "Excellent analytical and communication abilities",
+          "Knowledge of networking, databases, or cloud technologies"
+        ],
+        "preferred_qualifications": [
+          "Industry certifications (CompTIA, Microsoft, Cisco, AWS)",
+          "Experience in telecommunications or e-commerce sectors",
+          "Multi-language capabilities",
+          "Previous BPO technical support experience",
+          "ITIL or similar service management framework knowledge"
+        ],
+        "benefits": [
+          "Attractive compensation package with technical allowances",
+          "Professional certification sponsorship and training",
+          "International client exposure and career growth",
+          "Health and life insurance coverage",
+          "Performance-based incentives and bonuses",
+          "Flexible working arrangements",
+          "Continuous learning and development opportunities"
+        ],
+        "salary_range": "Above market rates with technical premium"
+      }
+    },
+    "application_process": {
+      "steps": [
+        "Submit application through chatbot or careers@cci.com",
+        "Initial screening and resume review (3-5 business days)",
+        "Phone/video interview with HR team",
+        "Technical assessment (for technical roles)",
+        "Final interview with hiring manager",
+        "Background check and reference verification",
+        "Job offer and onboarding process"
+      ],
+      "timeline": "Complete process typically takes 2-3 weeks",
+      "required_documents": [
+        "Updated CV/Resume",
+        "Educational certificates",
+        "ID copy/passport",
+        "Professional references (2-3 contacts)"
+      ]
+    },
+    "employee_benefits": {
+      "health_wellness": [
+        "Comprehensive medical insurance",
+        "Dental and vision coverage",
+        "Employee assistance programs",
+        "Wellness initiatives and health screenings"
+      ],
+      "financial": [
+        "Competitive salary packages",
+        "Performance-based bonuses",
+        "Retirement savings plans",
+        "Transport and meal allowances"
+      ],
+      "professional_development": [
+        "Paid training programs",
+        "Certification sponsorship",
+        "Career advancement opportunities",
+        "Cross-departmental movement",
+        "Leadership development programs"
+      ],
+      "work_life_balance": [
+        "Flexible working arrangements",
+        "Annual leave and personal days",
+        "Maternity/paternity leave",
+        "Employee recognition programs"
+      ]
+    },
+    "locations_hiring": {
+      "kenya": {
+        "office": "Tatu City Contact Centre",
+        "investment": "$50M state-of-the-art facility",
+        "positions": ["Customer Service Representative", "Technical Support Specialist"],
+        "languages": "English, Swahili, French"
+      },
+      "south_africa": {
+        "offices": "Cape Town, Johannesburg",
+        "positions": ["Customer Service Representative", "Technical Support Specialist"],
+        "languages": "English, Afrikaans, local languages"
+      },
+      "ghana": {
+        "focus": "West Africa operations with digitization focus",
+        "positions": ["Technical Support Specialist", "Digital Support Agents"],
+        "languages": "English, French, local languages"
+      },
+      "egypt": {
+        "specialization": "Multi-language support hub",
+        "positions": ["Technical Support Specialist", "Customer Service Representative"],
+        "languages": "Arabic, English, French"
+      }
+    },
+    "contact_information": {
+      "careers_email": "careers@cci.com",
+      "hr_contact": "hr@cci.com",
+      "application_support": "Apply through chatbot or email careers@cci.com",
+      "phone_inquiries": "Contact main office for HR department"
+    }
+  },
+  "industries": [
+    "Telecommunications",
+    "E-commerce",
+    "Financial Services",
+    "Healthcare",
+    "Technology",
+    "Travel",
+    "Insurance",
+    "Utilities",
+    "Government"
+  ],
+  "locations": {
+    "kenya": "Tatu City - US$50M state-of-the-art contact centre",
+    "south_africa": "Cape Town, Johannesburg",
+    "ethiopia": "Emerging BPO hub with government support",
+    "rwanda": "Strategic investment for digital exports",
+    "ghana": "Focal point for West Africa with digitization focus",
+    "egypt": "Established BPO destination with multi-language support",
+    "europe": "Galway, Ireland - Platform94, 30-person office"
+  },
+  "contact_info": {
+    "general_inquiry": "info@cci.com",
+    "sales": "sales@cci.com",
+    "support": "support@cci.com",
+    "careers": "careers@cci.com",
+    "website": "www.cciglobal.com"
+  },
+  "team": {
+    "martin_roe": {
+      "name": "Martin Roe",
+      "role": "Chief Executive Officer",
+      "description": "Oversees CCI's strategy to become Africa's largest outsourcing provider with a focus on Impact Sourcing."
+    },
+    "mark_chana": {
+      "name": "Mark Chana",
+      "role": "Chief Operating Officer",
+      "description": "Responsible for operational delivery across international and domestic clients, board member of BPESA and CareerBox."
+    },
+    "lizelle_strydom": {
+      "name": "Lizelle Strydom",
+      "role": "Managing Director: CareerBox",
+      "description": "Expert in labor market solutions, guest speaker at Oxford University, and leader in Impact Sourcing."
+    },
+    "mahira_khan": {
+      "name": "Mahira Khan",
+      "role": "Director of Bids & Contracts",
+      "description": "Manages bidding and contracting processes, securing major wins for CCI."
+    }
+  },
+  "impact_sourcing": {
+    "description": "Empowering youth through demand-led training and career development via CareerBox, a non-profit focused on placing candidates from underprivileged communities.",
+    "careerbox_integration": "Direct pathway from CareerBox training programs to CCI Global employment opportunities",
+    "stats": {
+      "career_opportunities": "50,000+",
+      "applicants_per_month": "3,000+",
+      "lives_impacted": "200,000+",
+      "agent_demographics": {
+        "african_employees": "97.3%",
+        "female_placements": "67.1%",
+        "female_leadership": "98.5%",
+        "youth_placements_males": "26.5%",
+        "youth_placements": "75.0%",
+        "from_below_min_wage_households": "76.0%"
+      }
+    }
+  },
+  "news": [
+    {
+      "title": "CCI Global Expands European Operations at Platform94, Galway",
+      "description": "Moved from a 3-desk startup to a 30-person office in Galway, Ireland."
+    },
+    {
+      "title": "CCI Global Named Major Contender in 2024 Everest Peak Matrix CXM Report",
+      "description": "Recognized across APAC, EMEA, and the Americas."
+    },
+    {
+      "title": "Stevie® Awards IBA 2024: Thought Leader of the Year – Lizelle Strydom",
+      "description": "Lizelle Strydom honored for leadership in Impact Sourcing."
+    },
+    {
+      "title": "Africa Set to Benefit From 1.5M Outsourced Customer Service Jobs by 2030",
+      "description": "Everest Group and CCI Global forecast 1-1.5 million BPO jobs by 2030."
+    },
+    {
+      "title": "Elevate Africa Conference",
+      "description": "Held at CCI's sustainable contact centre in Tatu City, Kenya."
+    },
+    {
+      "title": "CCI Launches US$50 Million Call Centre at Tatu City",
+      "description": "Significant investment in Kenya's BPO industry."
+    }
+  ],
+  "sustainability": {
+    "initiative": "One Job, One Tree",
+    "description": "Commitment to sustainability through environmental initiatives."
+  }
+}
